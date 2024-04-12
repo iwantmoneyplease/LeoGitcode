@@ -1,3 +1,3 @@
-Det är mycket möjligt att jag laddat upp projektet fel, mb
+Det är mycket möjligt att jag laddat upp projektet fel, my bad
 
-Sewilius la till ett extra e på "added" och det stör mig 
+Sewilius lade till ett extra e på "added" och det stör mig 
