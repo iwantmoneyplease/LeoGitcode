@@ -7,7 +7,7 @@
             int run = 0;
             while(true)
             {
-                Console.WriteLine("Välj i menyn (1 eller 2)");
+                Console.WriteLine("Välj i menyn: 1...Från GitCode  2...Från Leo  Annat...Avsluta");
                 run = int.Parse(Console.ReadLine());
                 if (run == 1)
                 {
@@ -31,7 +31,7 @@
 
             static void Leo()
             {
-                Console.WriteLine("Tjenare kexet, sitter du där o smular -Leo");
+                Console.WriteLine("Tjenare kexet, sitter du där o smular");
             }
         }
     }

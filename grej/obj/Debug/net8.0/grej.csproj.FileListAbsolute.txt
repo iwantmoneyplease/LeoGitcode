@@ -12,3 +12,4 @@ C:\Users\leo.millvik\Documents\Skola AW\Tillämpad Programmering 23\grej\grej\ob
 C:\Users\leo.millvik\Documents\Skola AW\Tillämpad Programmering 23\grej\grej\obj\Debug\net8.0\grej.pdb
 C:\Users\leo.millvik\Documents\Skola AW\Tillämpad Programmering 23\grej\grej\obj\Debug\net8.0\grej.genruntimeconfig.cache
 C:\Users\leo.millvik\Documents\Skola AW\Tillämpad Programmering 23\grej\grej\obj\Debug\net8.0\ref\grej.dll
+C:\Users\leo.millvik\Documents\Skola AW\Tillämpad Programmering 23\grej\grej\obj\Debug\net8.0\grej.sourcelink.json
